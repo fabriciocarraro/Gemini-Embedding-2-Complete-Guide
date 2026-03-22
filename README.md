@@ -45,7 +45,7 @@ Everything runs in a single Google Colab. You just need a free API key from [Goo
 
 ## Getting Started
 
-1. Open the notebook in Google Colab using the badge above
+1. Open the notebook in Google Colab using the badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XDnY2InFiE_UNNyHOoN7NtbZKIKsYVqY?usp=sharing)
 2. Get a free API key from [Google AI Studio](https://aistudio.google.com/)
 3. Save it in Colab's Secrets sidebar with the name `GEMINI_API_KEY`
 4. Run the cells and explore
